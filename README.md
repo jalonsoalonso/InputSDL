@@ -1,5 +1,5 @@
 # InputSDL
-2nd part C/C++ programming with SDL: handle input with SDL.
+2nd part: handle input with SDL.
 
 New functions, structures and constants used:
 - Functions
